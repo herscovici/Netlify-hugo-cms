@@ -14,10 +14,10 @@ draft: true
 
 \---
 
-
-
 La côte atlantique, de la mer d’Iroise à l’entrée du golfe du Morbihan, est assez différente de celle de la Manche. Les marées étant moins marquées, les courants sont plus faibles (sauf dans le golfe du Morbihan), le marnage est moins important. 
 
 Les paysages sont plus doux et la température est plus élevée de quelques degrés. C’est une zone de navigation intéressante pour qui voudrait se remettre à la voile. 
 
 Les vents dominants de secteur Ouest et même si le temps est plus clément qu’au Nord de la Bretagne, il peut y avoir des dépressions à négocier.
+
+![](/img/about-direct-sourcing.jpg)
